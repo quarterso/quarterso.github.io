@@ -1,4 +1,2 @@
-User-Agent: *
+User-agent: *
 Allow: /
-
-Sitemap: https://quarterso.github.io/sitemap.xml
